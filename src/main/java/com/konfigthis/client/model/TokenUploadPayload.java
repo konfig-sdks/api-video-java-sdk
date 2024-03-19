@@ -75,7 +75,7 @@ public class TokenUploadPayload {
    * @return _file
   **/
   @javax.annotation.Nonnull
-  @ApiModelProperty(example = "[B@5eca8878", required = true, value = "The path to the video you want to upload.")
+  @ApiModelProperty(example = "[B@6ed81ef7", required = true, value = "The path to the video you want to upload.")
 
   public File getFile() {
     return _file;

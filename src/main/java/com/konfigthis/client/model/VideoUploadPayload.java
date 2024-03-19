@@ -71,7 +71,7 @@ public class VideoUploadPayload {
    * @return _file
   **/
   @javax.annotation.Nonnull
-  @ApiModelProperty(example = "[B@9062fb", required = true, value = "The path to the video you would like to upload. The path must be local. If you want to use a video from an online source, you must use the \"/videos\" endpoint and add the \"source\" parameter when you create a new video.")
+  @ApiModelProperty(example = "[B@bde99fc", required = true, value = "The path to the video you would like to upload. The path must be local. If you want to use a video from an online source, you must use the \"/videos\" endpoint and add the \"source\" parameter when you create a new video.")
 
   public File getFile() {
     return _file;

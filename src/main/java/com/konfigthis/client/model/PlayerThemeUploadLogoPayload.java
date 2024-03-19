@@ -75,7 +75,7 @@ public class PlayerThemeUploadLogoPayload {
    * @return _file
   **/
   @javax.annotation.Nonnull
-  @ApiModelProperty(example = "[B@6392b535", required = true, value = "The name of the file you want to use for your logo.")
+  @ApiModelProperty(example = "[B@3f9f5b4b", required = true, value = "The name of the file you want to use for your logo.")
 
   public File getFile() {
     return _file;
